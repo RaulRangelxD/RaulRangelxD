@@ -1,6 +1,3 @@
-
-¡Hola RaulRangelxD! Aquí tienes un ejemplo de una descripción para tu perfil de GitHub que puedes adaptar según tu experiencia y preferencias:
-
 ¡Hola! 👋 Soy RaulRangelxD
 Soy un desarrollador apasionado con un fuerte interés en la programación y la tecnología. Siempre estoy buscando aprender nuevas habilidades y mejorar mis conocimientos en diferentes áreas de desarrollo. Aquí encontrarás algunos de los proyectos en los que he estado trabajando recientemente.
 
