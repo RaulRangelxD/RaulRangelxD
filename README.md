@@ -40,6 +40,12 @@ Soy un desarrollador apasionado con un fuerte interés en la programación y la 
 </div>
   </td>
   <td>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaulRangelxD/RaulRangelxD/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaulRangelxD/RaulRangelxD/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/RaulRangelxD/RaulRangelxD/github-contribution-grid-snake.svg">
+</picture>
   </td>
 </tr>
 </table>
